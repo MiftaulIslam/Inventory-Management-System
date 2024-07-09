@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\arifur.rahman\\Desktop\\Work V3\\Inventory-Management-System\\Inventory Management System\\src\\API\\API.csproj": {}
+    "C:\\Users\\arsns\\OneDrive\\Desktop\\Work\\Inventory-Management-System\\Inventory Management System\\src\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\arifur.rahman\\Desktop\\Work V3\\Inventory-Management-System\\Inventory Management System\\src\\API\\API.csproj": {
+    "C:\\Users\\arsns\\OneDrive\\Desktop\\Work\\Inventory-Management-System\\Inventory Management System\\src\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\arifur.rahman\\Desktop\\Work V3\\Inventory-Management-System\\Inventory Management System\\src\\API\\API.csproj",
+        "projectUniqueName": "C:\\Users\\arsns\\OneDrive\\Desktop\\Work\\Inventory-Management-System\\Inventory Management System\\src\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\arifur.rahman\\Desktop\\Work V3\\Inventory-Management-System\\Inventory Management System\\src\\API\\API.csproj",
-        "packagesPath": "C:\\Users\\arifur.rahman\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\arifur.rahman\\Desktop\\Work V3\\Inventory-Management-System\\Inventory Management System\\src\\API\\obj\\",
+        "projectPath": "C:\\Users\\arsns\\OneDrive\\Desktop\\Work\\Inventory-Management-System\\Inventory Management System\\src\\API\\API.csproj",
+        "packagesPath": "C:\\Users\\arsns\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\arsns\\OneDrive\\Desktop\\Work\\Inventory-Management-System\\Inventory Management System\\src\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\arifur.rahman\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\arsns\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -29,11 +29,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\arifur.rahman\\Desktop\\Work V3\\Inventory-Management-System\\Inventory Management System\\src\\Application\\Application.csproj": {
-                "projectPath": "C:\\Users\\arifur.rahman\\Desktop\\Work V3\\Inventory-Management-System\\Inventory Management System\\src\\Application\\Application.csproj"
+              "C:\\Users\\arsns\\OneDrive\\Desktop\\Work\\Inventory-Management-System\\Inventory Management System\\src\\Application\\Application.csproj": {
+                "projectPath": "C:\\Users\\arsns\\OneDrive\\Desktop\\Work\\Inventory-Management-System\\Inventory Management System\\src\\Application\\Application.csproj"
               },
-              "C:\\Users\\arifur.rahman\\Desktop\\Work V3\\Inventory-Management-System\\Inventory Management System\\src\\Infrastructure\\Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\arifur.rahman\\Desktop\\Work V3\\Inventory-Management-System\\Inventory Management System\\src\\Infrastructure\\Infrastructure.csproj"
+              "C:\\Users\\arsns\\OneDrive\\Desktop\\Work\\Inventory-Management-System\\Inventory Management System\\src\\Infrastructure\\Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\arsns\\OneDrive\\Desktop\\Work\\Inventory-Management-System\\Inventory Management System\\src\\Infrastructure\\Infrastructure.csproj"
               }
             }
           }
@@ -56,6 +56,10 @@
             "EFCore.BulkExtensions": {
               "target": "Package",
               "version": "[8.0.4, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.3.0, )"
             },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
@@ -109,17 +113,17 @@
         }
       }
     },
-    "C:\\Users\\arifur.rahman\\Desktop\\Work V3\\Inventory-Management-System\\Inventory Management System\\src\\Application\\Application.csproj": {
+    "C:\\Users\\arsns\\OneDrive\\Desktop\\Work\\Inventory-Management-System\\Inventory Management System\\src\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\arifur.rahman\\Desktop\\Work V3\\Inventory-Management-System\\Inventory Management System\\src\\Application\\Application.csproj",
+        "projectUniqueName": "C:\\Users\\arsns\\OneDrive\\Desktop\\Work\\Inventory-Management-System\\Inventory Management System\\src\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "C:\\Users\\arifur.rahman\\Desktop\\Work V3\\Inventory-Management-System\\Inventory Management System\\src\\Application\\Application.csproj",
-        "packagesPath": "C:\\Users\\arifur.rahman\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\arifur.rahman\\Desktop\\Work V3\\Inventory-Management-System\\Inventory Management System\\src\\Application\\obj\\",
+        "projectPath": "C:\\Users\\arsns\\OneDrive\\Desktop\\Work\\Inventory-Management-System\\Inventory Management System\\src\\Application\\Application.csproj",
+        "packagesPath": "C:\\Users\\arsns\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\arsns\\OneDrive\\Desktop\\Work\\Inventory-Management-System\\Inventory Management System\\src\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\arifur.rahman\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\arsns\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -134,11 +138,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\arifur.rahman\\Desktop\\Work V3\\Inventory-Management-System\\Inventory Management System\\src\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\arifur.rahman\\Desktop\\Work V3\\Inventory-Management-System\\Inventory Management System\\src\\Domain\\Domain.csproj"
+              "C:\\Users\\arsns\\OneDrive\\Desktop\\Work\\Inventory-Management-System\\Inventory Management System\\src\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\arsns\\OneDrive\\Desktop\\Work\\Inventory-Management-System\\Inventory Management System\\src\\Domain\\Domain.csproj"
               },
-              "C:\\Users\\arifur.rahman\\Desktop\\Work V3\\Inventory-Management-System\\Inventory Management System\\src\\Infrastructure\\Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\arifur.rahman\\Desktop\\Work V3\\Inventory-Management-System\\Inventory Management System\\src\\Infrastructure\\Infrastructure.csproj"
+              "C:\\Users\\arsns\\OneDrive\\Desktop\\Work\\Inventory-Management-System\\Inventory Management System\\src\\Infrastructure\\Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\arsns\\OneDrive\\Desktop\\Work\\Inventory-Management-System\\Inventory Management System\\src\\Infrastructure\\Infrastructure.csproj"
               }
             }
           }
@@ -215,17 +219,17 @@
         }
       }
     },
-    "C:\\Users\\arifur.rahman\\Desktop\\Work V3\\Inventory-Management-System\\Inventory Management System\\src\\Domain\\Domain.csproj": {
+    "C:\\Users\\arsns\\OneDrive\\Desktop\\Work\\Inventory-Management-System\\Inventory Management System\\src\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\arifur.rahman\\Desktop\\Work V3\\Inventory-Management-System\\Inventory Management System\\src\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\arsns\\OneDrive\\Desktop\\Work\\Inventory-Management-System\\Inventory Management System\\src\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\arifur.rahman\\Desktop\\Work V3\\Inventory-Management-System\\Inventory Management System\\src\\Domain\\Domain.csproj",
-        "packagesPath": "C:\\Users\\arifur.rahman\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\arifur.rahman\\Desktop\\Work V3\\Inventory-Management-System\\Inventory Management System\\src\\Domain\\obj\\",
+        "projectPath": "C:\\Users\\arsns\\OneDrive\\Desktop\\Work\\Inventory-Management-System\\Inventory Management System\\src\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\arsns\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\arsns\\OneDrive\\Desktop\\Work\\Inventory-Management-System\\Inventory Management System\\src\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\arifur.rahman\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\arsns\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -298,17 +302,17 @@
         }
       }
     },
-    "C:\\Users\\arifur.rahman\\Desktop\\Work V3\\Inventory-Management-System\\Inventory Management System\\src\\Infrastructure\\Infrastructure.csproj": {
+    "C:\\Users\\arsns\\OneDrive\\Desktop\\Work\\Inventory-Management-System\\Inventory Management System\\src\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\arifur.rahman\\Desktop\\Work V3\\Inventory-Management-System\\Inventory Management System\\src\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\arsns\\OneDrive\\Desktop\\Work\\Inventory-Management-System\\Inventory Management System\\src\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "C:\\Users\\arifur.rahman\\Desktop\\Work V3\\Inventory-Management-System\\Inventory Management System\\src\\Infrastructure\\Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\arifur.rahman\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\arifur.rahman\\Desktop\\Work V3\\Inventory-Management-System\\Inventory Management System\\src\\Infrastructure\\obj\\",
+        "projectPath": "C:\\Users\\arsns\\OneDrive\\Desktop\\Work\\Inventory-Management-System\\Inventory Management System\\src\\Infrastructure\\Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\arsns\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\arsns\\OneDrive\\Desktop\\Work\\Inventory-Management-System\\Inventory Management System\\src\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\arifur.rahman\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\arsns\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -323,8 +327,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\arifur.rahman\\Desktop\\Work V3\\Inventory-Management-System\\Inventory Management System\\src\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\arifur.rahman\\Desktop\\Work V3\\Inventory-Management-System\\Inventory Management System\\src\\Domain\\Domain.csproj"
+              "C:\\Users\\arsns\\OneDrive\\Desktop\\Work\\Inventory-Management-System\\Inventory Management System\\src\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\arsns\\OneDrive\\Desktop\\Work\\Inventory-Management-System\\Inventory Management System\\src\\Domain\\Domain.csproj"
               }
             }
           }

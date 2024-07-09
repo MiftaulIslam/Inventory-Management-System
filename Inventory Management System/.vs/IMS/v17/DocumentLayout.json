@@ -1,22 +1,42 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\arifur.rahman\\Desktop\\Work V3\\Inventory-Management-System\\Inventory Management System\\",
+  "WorkspaceRootPath": "C:\\Users\\arsns\\OneDrive\\Desktop\\Work\\Inventory-Management-System\\Inventory Management System\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BBDA8389-DB15-4163-8258-DCCAD5F4E3B3}|src\\API\\API.csproj|c:\\users\\arifur.rahman\\desktop\\work v3\\inventory-management-system\\inventory management system\\src\\api\\controllers\\expensefixedcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BBDA8389-DB15-4163-8258-DCCAD5F4E3B3}|src\\API\\API.csproj|c:\\users\\arsns\\onedrive\\desktop\\work\\inventory-management-system\\inventory management system\\src\\api\\controllers\\expensefixedcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BBDA8389-DB15-4163-8258-DCCAD5F4E3B3}|src\\API\\API.csproj|solutionrelative:src\\api\\controllers\\expensefixedcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BBDA8389-DB15-4163-8258-DCCAD5F4E3B3}|src\\API\\API.csproj|c:\\users\\arifur.rahman\\desktop\\work v3\\inventory-management-system\\inventory management system\\src\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0959F6BB-7E7C-4E3C-BC0E-EA2481EBE965}|src\\Infrastructure\\Infrastructure.csproj|c:\\users\\arsns\\onedrive\\desktop\\work\\inventory-management-system\\inventory management system\\src\\infrastructure\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0959F6BB-7E7C-4E3C-BC0E-EA2481EBE965}|src\\Infrastructure\\Infrastructure.csproj|solutionrelative:src\\infrastructure\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBDA8389-DB15-4163-8258-DCCAD5F4E3B3}|src\\API\\API.csproj|c:\\users\\arsns\\onedrive\\desktop\\work\\inventory-management-system\\inventory management system\\src\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BBDA8389-DB15-4163-8258-DCCAD5F4E3B3}|src\\API\\API.csproj|solutionrelative:src\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0959F6BB-7E7C-4E3C-BC0E-EA2481EBE965}|src\\Infrastructure\\Infrastructure.csproj|c:\\users\\arifur.rahman\\desktop\\work v3\\inventory-management-system\\inventory management system\\src\\infrastructure\\persistence\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0959F6BB-7E7C-4E3C-BC0E-EA2481EBE965}|src\\Infrastructure\\Infrastructure.csproj|solutionrelative:src\\infrastructure\\persistence\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{07329985-A954-4331-A067-0352BE1355DF}|src\\Application\\Application.csproj|c:\\users\\arsns\\onedrive\\desktop\\work\\inventory-management-system\\inventory management system\\src\\application\\queries\\getqueries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07329985-A954-4331-A067-0352BE1355DF}|src\\Application\\Application.csproj|solutionrelative:src\\application\\queries\\getqueries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{469CEE33-C851-422A-B17C-B10AA4693816}|src\\Domain\\Domain.csproj|c:\\users\\arifur.rahman\\desktop\\work v3\\inventory-management-system\\inventory management system\\src\\domain\\entities\\models\\expensefixed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{469CEE33-C851-422A-B17C-B10AA4693816}|src\\Domain\\Domain.csproj|c:\\users\\arsns\\onedrive\\desktop\\work\\inventory-management-system\\inventory management system\\src\\domain\\entities\\dtos\\expensefixeddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{469CEE33-C851-422A-B17C-B10AA4693816}|src\\Domain\\Domain.csproj|solutionrelative:src\\domain\\entities\\dtos\\expensefixeddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{469CEE33-C851-422A-B17C-B10AA4693816}|src\\Domain\\Domain.csproj|c:\\users\\arsns\\onedrive\\desktop\\work\\inventory-management-system\\inventory management system\\src\\domain\\entities\\models\\expensefixed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{469CEE33-C851-422A-B17C-B10AA4693816}|src\\Domain\\Domain.csproj|solutionrelative:src\\domain\\entities\\models\\expensefixed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07329985-A954-4331-A067-0352BE1355DF}|src\\Application\\Application.csproj|c:\\users\\arsns\\onedrive\\desktop\\work\\inventory-management-system\\inventory management system\\src\\application\\mappings\\objectmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07329985-A954-4331-A067-0352BE1355DF}|src\\Application\\Application.csproj|solutionrelative:src\\application\\mappings\\objectmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0959F6BB-7E7C-4E3C-BC0E-EA2481EBE965}|src\\Infrastructure\\Infrastructure.csproj|c:\\users\\arsns\\onedrive\\desktop\\work\\inventory-management-system\\inventory management system\\src\\infrastructure\\repositories\\ispecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0959F6BB-7E7C-4E3C-BC0E-EA2481EBE965}|src\\Infrastructure\\Infrastructure.csproj|solutionrelative:src\\infrastructure\\repositories\\ispecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0959F6BB-7E7C-4E3C-BC0E-EA2481EBE965}|src\\Infrastructure\\Infrastructure.csproj|c:\\users\\arsns\\onedrive\\desktop\\work\\inventory-management-system\\inventory management system\\src\\infrastructure\\repositories\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0959F6BB-7E7C-4E3C-BC0E-EA2481EBE965}|src\\Infrastructure\\Infrastructure.csproj|solutionrelative:src\\infrastructure\\repositories\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,58 +46,123 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ExpenseFixedController.cs",
-              "DocumentMoniker": "C:\\Users\\arifur.rahman\\Desktop\\Work V3\\Inventory-Management-System\\Inventory Management System\\src\\API\\Controllers\\ExpenseFixedController.cs",
-              "RelativeDocumentMoniker": "src\\API\\Controllers\\ExpenseFixedController.cs",
-              "ToolTip": "C:\\Users\\arifur.rahman\\Desktop\\Work V3\\Inventory-Management-System\\Inventory Management System\\src\\API\\Controllers\\ExpenseFixedController.cs",
-              "RelativeToolTip": "src\\API\\Controllers\\ExpenseFixedController.cs",
-              "ViewState": "AQIAACkAAAAAAAAAAAAuwDIAAAAAAAAA",
+              "DocumentIndex": 4,
+              "Title": "ExpenseFixedDto.cs",
+              "DocumentMoniker": "C:\\Users\\arsns\\OneDrive\\Desktop\\Work\\Inventory-Management-System\\Inventory Management System\\src\\Domain\\Entities\\DTOs\\ExpenseFixedDto.cs",
+              "RelativeDocumentMoniker": "src\\Domain\\Entities\\DTOs\\ExpenseFixedDto.cs",
+              "ToolTip": "C:\\Users\\arsns\\OneDrive\\Desktop\\Work\\Inventory-Management-System\\Inventory Management System\\src\\Domain\\Entities\\DTOs\\ExpenseFixedDto.cs",
+              "RelativeToolTip": "src\\Domain\\Entities\\DTOs\\ExpenseFixedDto.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAA8wBcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-09T11:01:55.433Z",
+              "WhenOpened": "2024-07-09T17:09:00.68Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "DataContext.cs",
-              "DocumentMoniker": "C:\\Users\\arifur.rahman\\Desktop\\Work V3\\Inventory-Management-System\\Inventory Management System\\src\\Infrastructure\\Persistence\\DataContext.cs",
-              "RelativeDocumentMoniker": "src\\Infrastructure\\Persistence\\DataContext.cs",
-              "ToolTip": "C:\\Users\\arifur.rahman\\Desktop\\Work V3\\Inventory-Management-System\\Inventory Management System\\src\\Infrastructure\\Persistence\\DataContext.cs",
-              "RelativeToolTip": "src\\Infrastructure\\Persistence\\DataContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "DocumentIndex": 5,
+              "Title": "ExpenseFixed.cs",
+              "DocumentMoniker": "C:\\Users\\arsns\\OneDrive\\Desktop\\Work\\Inventory-Management-System\\Inventory Management System\\src\\Domain\\Entities\\Models\\ExpenseFixed.cs",
+              "RelativeDocumentMoniker": "src\\Domain\\Entities\\Models\\ExpenseFixed.cs",
+              "ToolTip": "C:\\Users\\arsns\\OneDrive\\Desktop\\Work\\Inventory-Management-System\\Inventory Management System\\src\\Domain\\Entities\\Models\\ExpenseFixed.cs",
+              "RelativeToolTip": "src\\Domain\\Entities\\Models\\ExpenseFixed.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAA5wAoAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-09T11:00:10.268Z",
+              "WhenOpened": "2024-07-09T17:08:40.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ObjectMapper.cs",
+              "DocumentMoniker": "C:\\Users\\arsns\\OneDrive\\Desktop\\Work\\Inventory-Management-System\\Inventory Management System\\src\\Application\\Mappings\\ObjectMapper.cs",
+              "RelativeDocumentMoniker": "src\\Application\\Mappings\\ObjectMapper.cs",
+              "ToolTip": "C:\\Users\\arsns\\OneDrive\\Desktop\\Work\\Inventory-Management-System\\Inventory Management System\\src\\Application\\Mappings\\ObjectMapper.cs",
+              "RelativeToolTip": "src\\Application\\Mappings\\ObjectMapper.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAADwvw0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T17:08:09.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ISpecification.cs",
+              "DocumentMoniker": "C:\\Users\\arsns\\OneDrive\\Desktop\\Work\\Inventory-Management-System\\Inventory Management System\\src\\Infrastructure\\Repositories\\ISpecification.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\Repositories\\ISpecification.cs",
+              "ToolTip": "C:\\Users\\arsns\\OneDrive\\Desktop\\Work\\Inventory-Management-System\\Inventory Management System\\src\\Infrastructure\\Repositories\\ISpecification.cs",
+              "RelativeToolTip": "src\\Infrastructure\\Repositories\\ISpecification.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAQwDcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T17:07:27.939Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "ExpenseFixed.cs",
-              "DocumentMoniker": "C:\\Users\\arifur.rahman\\Desktop\\Work V3\\Inventory-Management-System\\Inventory Management System\\src\\Domain\\Entities\\Models\\ExpenseFixed.cs",
-              "RelativeDocumentMoniker": "src\\Domain\\Entities\\Models\\ExpenseFixed.cs",
-              "ToolTip": "C:\\Users\\arifur.rahman\\Desktop\\Work V3\\Inventory-Management-System\\Inventory Management System\\src\\Domain\\Entities\\Models\\ExpenseFixed.cs",
-              "RelativeToolTip": "src\\Domain\\Entities\\Models\\ExpenseFixed.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Title": "GetQueries.cs",
+              "DocumentMoniker": "C:\\Users\\arsns\\OneDrive\\Desktop\\Work\\Inventory-Management-System\\Inventory Management System\\src\\Application\\Queries\\GetQueries.cs",
+              "RelativeDocumentMoniker": "src\\Application\\Queries\\GetQueries.cs",
+              "ToolTip": "C:\\Users\\arsns\\OneDrive\\Desktop\\Work\\Inventory-Management-System\\Inventory Management System\\src\\Application\\Queries\\GetQueries.cs",
+              "RelativeToolTip": "src\\Application\\Queries\\GetQueries.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAADwvxMAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-09T10:59:38.254Z",
+              "WhenOpened": "2024-07-09T16:12:17.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\arsns\\OneDrive\\Desktop\\Work\\Inventory-Management-System\\Inventory Management System\\src\\API\\Program.cs",
+              "RelativeDocumentMoniker": "src\\API\\Program.cs",
+              "ToolTip": "C:\\Users\\arsns\\OneDrive\\Desktop\\Work\\Inventory-Management-System\\Inventory Management System\\src\\API\\Program.cs",
+              "RelativeToolTip": "src\\API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T16:19:13.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExpenseFixedController.cs",
+              "DocumentMoniker": "C:\\Users\\arsns\\OneDrive\\Desktop\\Work\\Inventory-Management-System\\Inventory Management System\\src\\API\\Controllers\\ExpenseFixedController.cs",
+              "RelativeDocumentMoniker": "src\\API\\Controllers\\ExpenseFixedController.cs",
+              "ToolTip": "C:\\Users\\arsns\\OneDrive\\Desktop\\Work\\Inventory-Management-System\\Inventory Management System\\src\\API\\Controllers\\ExpenseFixedController.cs",
+              "RelativeToolTip": "src\\API\\Controllers\\ExpenseFixedController.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAQwA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T16:13:27.917Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\arifur.rahman\\Desktop\\Work V3\\Inventory-Management-System\\Inventory Management System\\src\\API\\Program.cs",
-              "RelativeDocumentMoniker": "src\\API\\Program.cs",
-              "ToolTip": "C:\\Users\\arifur.rahman\\Desktop\\Work V3\\Inventory-Management-System\\Inventory Management System\\src\\API\\Program.cs",
-              "RelativeToolTip": "src\\API\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\arsns\\OneDrive\\Desktop\\Work\\Inventory-Management-System\\Inventory Management System\\src\\Infrastructure\\Repositories\\IRepository.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\Repositories\\IRepository.cs",
+              "ToolTip": "C:\\Users\\arsns\\OneDrive\\Desktop\\Work\\Inventory-Management-System\\Inventory Management System\\src\\Infrastructure\\Repositories\\IRepository.cs",
+              "RelativeToolTip": "src\\Infrastructure\\Repositories\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEwAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-09T08:59:08.465Z",
+              "WhenOpened": "2024-07-09T16:28:31.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\arsns\\OneDrive\\Desktop\\Work\\Inventory-Management-System\\Inventory Management System\\src\\Infrastructure\\Repositories\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\Repositories\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\arsns\\OneDrive\\Desktop\\Work\\Inventory-Management-System\\Inventory Management System\\src\\Infrastructure\\Repositories\\IUnitOfWork.cs",
+              "RelativeToolTip": "src\\Infrastructure\\Repositories\\IUnitOfWork.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAQwEYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T16:28:57.444Z",
               "EditorCaption": ""
             }
           ]

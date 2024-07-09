@@ -1343,19 +1343,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\arifur.rahman\\.nuget\\packages\\": {}
+    "C:\\Users\\arsns\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\arifur.rahman\\Desktop\\Work V3\\Inventory-Management-System\\Inventory Management System\\Tests\\Tests.csproj",
+      "projectUniqueName": "C:\\Users\\arsns\\OneDrive\\Desktop\\Work\\Inventory-Management-System\\Inventory Management System\\Tests\\Tests.csproj",
       "projectName": "Tests",
-      "projectPath": "C:\\Users\\arifur.rahman\\Desktop\\Work V3\\Inventory-Management-System\\Inventory Management System\\Tests\\Tests.csproj",
-      "packagesPath": "C:\\Users\\arifur.rahman\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\arifur.rahman\\Desktop\\Work V3\\Inventory-Management-System\\Inventory Management System\\Tests\\obj\\",
+      "projectPath": "C:\\Users\\arsns\\OneDrive\\Desktop\\Work\\Inventory-Management-System\\Inventory Management System\\Tests\\Tests.csproj",
+      "packagesPath": "C:\\Users\\arsns\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\arsns\\OneDrive\\Desktop\\Work\\Inventory-Management-System\\Inventory Management System\\Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\arifur.rahman\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\arsns\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

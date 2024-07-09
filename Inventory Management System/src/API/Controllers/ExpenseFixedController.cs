@@ -1,7 +1,8 @@
-﻿using Domain.Entities.Models;
-using Infrastructure.Persistence;
+﻿using API.Models;
+using AutoMapper;
+using Domain.Entities.Models;
+using Infrastructure.Repositories;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.EntityFrameworkCore;
 
 namespace API.Controllers;
 
@@ -9,76 +10,18 @@ namespace API.Controllers;
 [Route("api/[controller]")]
 public class ExpenseFixedController : ControllerBase
 {
-    private readonly DataContext _context;
+    private readonly IUnitOfWork _work;
+    private readonly IMapper _mapper;
 
-    public ExpenseFixedController(DataContext context)
+    public ExpenseFixedController(IUnitOfWork work, IMapper mapper)
     {
-        _context = context;
+        _work = work ?? throw new ArgumentNullException(nameof(work));
+        _mapper = mapper ?? throw new ArgumentNullException(nameof(mapper));
     }
 
     [HttpGet]
-    public async Task<IActionResult> GetAll()
+    public async Task<IActionResult> GetAllFixedExpenses(int pageIndex = 1, int pageSize = 10)
     {
-        return Ok(await _context.ExpenseFixeds.ToListAsync());
-    }
-
-    [HttpGet("{id}")]
-    public async Task<IActionResult> GetById(int id)
-    {
-        var expense = await _context.ExpenseFixeds.FindAsync(id);
-        if (expense == null)
-        {
-            return NotFound();
-        }
-        return Ok(expense);
-    }
-
-    [HttpPost]
-    public async Task<IActionResult> Create(ExpenseFixed expense)
-    {
-        _context.ExpenseFixeds.Add(expense);
-        await _context.SaveChangesAsync();
-        return CreatedAtAction(nameof(GetById), new { id = expense.Id }, expense);
-    }
-
-    [HttpPut("{id}")]
-    public async Task<IActionResult> Update(int id, ExpenseFixed expense)
-    {
-        if (id != expense.Id)
-        {
-            return BadRequest();
-        }
-
-        _context.Entry(expense).State = EntityState.Modified;
-        try
-        {
-            await _context.SaveChangesAsync();
-        }
-        catch (DbUpdateConcurrencyException)
-        {
-            if (!await _context.ExpenseFixeds.AnyAsync(e => e.Id == id))
-            {
-                return NotFound();
-            }
-            else
-            {
-                throw;
-            }
-        }
-        return NoContent();
-    }
-
-    [HttpDelete("{id}")]
-    public async Task<IActionResult> Delete(int id)
-    {
-        var expense = await _context.ExpenseFixeds.FindAsync(id);
-        if (expense == null)
-        {
-            return NotFound();
-        }
-
-        _context.ExpenseFixeds.Remove(expense);
-        await _context.SaveChangesAsync();
-        return NoContent();
+        return Ok(_mapper.Map<IReadOnlyList<ExpenseFixedDto.WithId>>(await _work.GetAllAsync<ExpenseFixed>(pageIndex, pageSize)));
     }
 }

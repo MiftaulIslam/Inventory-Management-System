@@ -16,3 +16,21 @@ C:\Users\arifur.rahman\Desktop\Work V3\Inventory-Management-System\Inventory Man
 C:\Users\arifur.rahman\Desktop\Work V3\Inventory-Management-System\Inventory Management System\src\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
 C:\Users\arifur.rahman\Desktop\Work V3\Inventory-Management-System\Inventory Management System\src\Infrastructure\obj\Debug\net8.0\Infrastructure.genruntimeconfig.cache
 C:\Users\arifur.rahman\Desktop\Work V3\Inventory-Management-System\Inventory Management System\src\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
+C:\Users\arsns\OneDrive\Desktop\Work\Inventory-Management-System\Inventory Management System\src\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+C:\Users\arsns\OneDrive\Desktop\Work\Inventory-Management-System\Inventory Management System\src\Infrastructure\bin\Debug\net8.0\Infrastructure.runtimeconfig.json
+C:\Users\arsns\OneDrive\Desktop\Work\Inventory-Management-System\Inventory Management System\src\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\arsns\OneDrive\Desktop\Work\Inventory-Management-System\Inventory Management System\src\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\arsns\OneDrive\Desktop\Work\Inventory-Management-System\Inventory Management System\src\Infrastructure\bin\Debug\net8.0\Domain.dll
+C:\Users\arsns\OneDrive\Desktop\Work\Inventory-Management-System\Inventory Management System\src\Infrastructure\bin\Debug\net8.0\Domain.pdb
+C:\Users\arsns\OneDrive\Desktop\Work\Inventory-Management-System\Inventory Management System\src\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\arsns\OneDrive\Desktop\Work\Inventory-Management-System\Inventory Management System\src\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arsns\OneDrive\Desktop\Work\Inventory-Management-System\Inventory Management System\src\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\arsns\OneDrive\Desktop\Work\Inventory-Management-System\Inventory Management System\src\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+C:\Users\arsns\OneDrive\Desktop\Work\Inventory-Management-System\Inventory Management System\src\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\arsns\OneDrive\Desktop\Work\Inventory-Management-System\Inventory Management System\src\Infrastructure\obj\Debug\net8.0\Infrastructure.sourcelink.json
+C:\Users\arsns\OneDrive\Desktop\Work\Inventory-Management-System\Inventory Management System\src\Infrastructure\obj\Debug\net8.0\Infrastr.15EFFBFE.Up2Date
+C:\Users\arsns\OneDrive\Desktop\Work\Inventory-Management-System\Inventory Management System\src\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+C:\Users\arsns\OneDrive\Desktop\Work\Inventory-Management-System\Inventory Management System\src\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+C:\Users\arsns\OneDrive\Desktop\Work\Inventory-Management-System\Inventory Management System\src\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+C:\Users\arsns\OneDrive\Desktop\Work\Inventory-Management-System\Inventory Management System\src\Infrastructure\obj\Debug\net8.0\Infrastructure.genruntimeconfig.cache
+C:\Users\arsns\OneDrive\Desktop\Work\Inventory-Management-System\Inventory Management System\src\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll

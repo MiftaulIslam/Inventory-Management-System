@@ -47,7 +47,7 @@ Our project is organized into several key directories, each serving a specific p
 │   │   │   ├── Views             // Razor views
 │   │   │   ├── Models            // View models
 │   │   │   ├── wwwroot           // Static files for MVC
-│   │   │   └── Startup.cs        // MVC Startup configuration
+│   │   │   └── Program.cs        // MVC Startup configuration
 │   │   │
 │   │   └── Angular               // Angular Client
 │   │       ├── src               // Source code for Angular application

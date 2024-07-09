@@ -1,7 +1,14 @@
+using Infrastructure.Persistence;
+using Microsoft.EntityFrameworkCore;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllers();
+
+// Add SQLite DbContext
+builder.Services.AddDbContext<DataContext>(options =>
+    options.UseSqlite(builder.Configuration.GetConnectionString("SqliteConnection")));
 
 // Configure Swagger/OpenAPI
 builder.Services.AddEndpointsApiExplorer();
